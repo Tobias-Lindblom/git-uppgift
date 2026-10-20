@@ -2,7 +2,7 @@
 
 ## Vad är versionshantering och vad är den stora skillnaden mellan att spara en fil via editorns vanliga sparaknapp och att spara ändringar i Git?
 
-Versionshantering innebär att man sparar och håller koll på olika versioner av sin kod. 
+Versionshantering innebär att man sparar och håller koll på olika versioner av sin kod.
 Det gör att man kan se vad som har ändrats och när det ändrades och man kan enkelt gå tillbaka till tidigare versioner om något skulle bli fel.
 
 När jag trycker på "Spara" i VS Code sparas bara den senaste versionen av filen lokalt på min dator.
